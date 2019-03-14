@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This will show in second branch named gito.Hello Master
+=======
+This will show in second branch named gito.This will be shown in both
+>>>>>>> gito
