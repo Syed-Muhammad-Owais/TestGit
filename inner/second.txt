@@ -1,1 +1,1 @@
-diff and
+This is second file.
